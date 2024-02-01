@@ -1,6 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=1E90FF&height=100&section=header&text=MySQL&animation=twinkling&fontSize=60&fontColor=FFFAFA&" />
+<div align='center'>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=1E90FF&height=100&section=header&text=MySQL&animation=twinkling&fontSize=60&fontColor=FFFAFA&"/>
 
-<br>
+</div>
+<br><br><br>
 
 ## - Basic SQL grammar Study 📄 [link](https://github.com/Kim-SeongSu/Self-study_and_Review/blob/main/MySQL/MySQL.md)
 <br>
@@ -22,12 +24,9 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=70&section=footer"/>
-
+<div align='center'>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=100&section=footer"/>
+</div>
 
 <!--
 깃허브 꾸미기 참고 링크
