@@ -4,7 +4,7 @@
 </div>
 <br><br><br>
 
-## - Basic SQL grammar Study 📄 [link](https://github.com/Kim-SeongSu/Self-study_and_Review/blob/main/MySQL/MySQL.md)
+## - Basic SQL grammar Study 📄 [link](https://github.com/Kim-SeongSu/Self-study_and_Review/blob/main/MySQL/README.md)
 <br>
 
 ## - Solving exercises ✏️ [link](https://github.com/Kim-SeongSu/coding_practice/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4)
