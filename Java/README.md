@@ -10,6 +10,8 @@
 
 ## - Self Study 📚 [link](https://github.com/Kim-SeongSu/Self-study_and_Review/tree/main/Java)
 <br>
+
+## - Solving exercises ✏️ [link](https://github.com/Kim-SeongSu/coding_practice/tree/main)
 <br>
 <br>
 <br>
@@ -23,7 +25,7 @@
 <br>
 <br>
 <br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=70&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B8860B&height=70&section=footer"/>
 
 
 <!--
