@@ -13,6 +13,8 @@
 
 ## - Solving exercises ✏️ [link](https://github.com/Kim-SeongSu/coding_practice/tree/main)
 <br>
+
+## - Inflearn :🌱 [link](https://github.com/Kim-SeongSu/Inflearn/tree/main/01.%20%EC%9E%90%EB%B0%94%20%EC%9E%85%EB%AC%B8))
 <br>
 <br>
 <br>
